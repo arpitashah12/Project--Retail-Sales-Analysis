@@ -1,5 +1,6 @@
 # Project--Retail-Sales-Analysis
 Retail Sales Analysis is a SQL-based data analytics project that helps businesses analyze sales performance, customer behavior, product performance, and regional revenue trends. The project uses sales data from customers, products, and orders tables to generate business insights through SQL queries.
+
 <img width="940" height="674" alt="image" src="https://github.com/user-attachments/assets/bf872ac8-9ae0-425c-837d-ae704230d400" />
 <img width="940" height="266" alt="image" src="https://github.com/user-attachments/assets/67789e3c-cfe6-4881-a26b-4e6ec912b2b5" />
 <img width="940" height="496" alt="image" src="https://github.com/user-attachments/assets/b548dce2-aa75-47d2-9739-32f0a4e8c415" />
